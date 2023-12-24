@@ -4,7 +4,7 @@
 <h1>Fail2Ban tool:</h1>
 "To enhance the security of SSH and prevent unauthorized access attempts."
 <h3>I_ Installation :</h3>
-    $ sudo apt-get update
+    $ sudo apt-get update<br>
     $ sudo apt-get install fail2ban
 <h3>II_ Configuration:</h3>
     $ cd /etc/fail2ban/<br>
